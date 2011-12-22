@@ -759,7 +759,7 @@ public class Main extends JFrame {
 	private void initialize() {
 		this.setSize(733, 427);
 		this.setContentPane(getJContentPane());
-		this.setTitle("JFrame");
+		this.setTitle("jProxyChecker");
 	}
 
 	/**
