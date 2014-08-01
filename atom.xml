@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>jProxyChecker</title>
+ <link href="/jProxyChecker/atom.xml" rel="self"/>
+ <link href="/jProxyChecker/"/>
+ <updated>2014-08-01T20:53:58+02:00</updated>
+ <id>/jProxyChecker</id>
+ <author>
+   <name>Ale46</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>jProxyChecker</title>
+   <link href="/jProxyChecker/2011/12/31/home/"/>
+   <updated>2011-12-31T00:00:00+01:00</updated>
+   <id>/jProxyChecker/2011/12/31/home</id>
+   <content type="html">&lt;p&gt;jProxyChecker is a Proxy Checker written in java that can determine if a proxy is alive, where is located and the level of its anonimity. 
+You can add\delete single proxy, imports a list from your hard drive\remote url and exports the scanned proxy.&lt;/p&gt;
+
+&lt;h2&gt;WARNING&lt;/h2&gt;
+
+&lt;p&gt;This code is not tested accurately. The main problems are related to: 
+ 1. The method that check if a proxy is alive. (funny for a proxy checker, i know) 
+ 2. The method that test the anon level is only theorical so don&amp;#39;t give it too importance. (same fun as 1)&lt;/p&gt;
+
+&lt;p&gt;All the &amp;quot;geo-information&amp;quot;  are provided by &lt;a href=&quot;https://www.maxmind.com/en/geolocation_landing&quot;&gt;maxmindgeoip api&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
